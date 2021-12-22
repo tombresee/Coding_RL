@@ -67,6 +67,8 @@ Recommendation
 Greek Reference
 ------------------
 
+&Alpha;
+
 
 Capital (upper case) greek letters:
 
