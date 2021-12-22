@@ -46,6 +46,17 @@ print('tom')
 <br>
 
 
+Recommendation
+------------------
+
+- If one desires, they could use italicized t (𝘵) for `time step` that is referred to all over 
+- 
+
+
+
+
+<br>
+
 
 
 Greek Reference
