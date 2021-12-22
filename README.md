@@ -70,9 +70,9 @@ Greek Reference
 
 Small letters:
 
-| Description | Symbol / Character |                                                                 
-| | -- | -- |                                                                                                   
-| Greek small letter alpha | α |                                                                     
+| Description | Symbol Character |                                                                 
+| ----------- | ---------------- |                                                                                                   
+| Greek small letter alpha | α | abc |                                                                    
 | Greek small letter beta | β |                                                                       
 | Greek small letter gamma | γ |                                                                     
 | Greek small letter delta | δ |                                                                     
