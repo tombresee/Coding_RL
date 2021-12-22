@@ -67,7 +67,39 @@ Recommendation
 Greek Reference
 ------------------
 
-\u0391
+
+Small letters:
+
+| Description | Symbol / Character |                                                                 
+| | -- | -- |                                                                                                   
+| Greek small letter alpha | α |                                                                     
+| Greek small letter beta | β |                                                                       
+| Greek small letter gamma | γ |                                                                     
+| Greek small letter delta | δ |                                                                     
+| Greek small letter epsilon | ε |                                                                 
+| Greek small letter zeta | ζ |                                                                       
+| Greek small letter eta | η |                                                                         
+| Greek small letter theta | θ |                                                                     
+| Greek small letter iota | ι |                                                                       
+| Greek small letter kappa | κ |                                                                     
+| Greek small letter lambda | λ |                                                                   
+| Greek small letter mu | μ |                                                                           
+| Greek small letter nu | ν |                                                                           
+| Greek small letter xi | ξ |                                                                           
+| Greek small letter omicron | ο |                                                                 
+| Greek small letter pi | π |                                                                           
+| Greek small letter rho | ρ |                                                                         
+| Greek small letter sigma | σ |                                                                     
+| Greek small letter tau | τ |                                                                         
+| Greek small letter upsilon | υ |                                                                 
+| Greek small letter phi | φ |                                                                         
+| Greek small letter chi | χ |                                                                         
+| Greek small letter psi | ψ |                                                                         
+| Greek small letter omega | ω |   
+
+
+
+
 
 
 Capital (upper case) greek letters:
