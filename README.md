@@ -10,7 +10,7 @@ This is an educational resource produced by OpenAI that makes it easier to learn
 For the unfamiliar: [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (RL) is a machine learning approach for teaching agents how to solve tasks by trial and error. Deep RL refers to the combination of RL with [deep learning](http://ufldl.stanford.edu/tutorial/).
 
 
-**Deep reinforcement learning** is the combination of reinforcement learning (RL) and deep learning. This field of research has been able to solve a wide range of complex decisionmaking tasks that were previously out of reach for a machine.
+**Deep Reinforcement Learning** is the combination of reinforcement learning (RL) and deep learning. This field of research has been able to solve a wide range of complex decisionmaking tasks that were previously out of reach for a machine.
 
 
 This module contains a variety of helpful resources, including:
@@ -32,4 +32,11 @@ If you reference or use Spinning Up in your research, please cite:
 
 ```
 Article Link 1 
+```
+
+
+
+```python
+# tom comment
+print('tom') 
 ```
