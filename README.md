@@ -1,10 +1,17 @@
 
+
 Coding Reinforcement Learning
 ==================================
 
+
 This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 
+
 For the unfamiliar: [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (RL) is a machine learning approach for teaching agents how to solve tasks by trial and error. Deep RL refers to the combination of RL with [deep learning](http://ufldl.stanford.edu/tutorial/).
+
+
+Deep reinforcement learning is the combination of reinforcement learning (RL) and deep learning. This field of research has been able to solve a wide range of complex decisionmaking tasks that were previously out of reach for a machine.
+
 
 This module contains a variety of helpful resources, including:
 
@@ -13,6 +20,9 @@ This module contains a variety of helpful resources, including:
 - a [curated list](https://spinningup.openai.com/en/latest/spinningup/keypapers.html) of important papers organized by topic,
 - a well-documented [code repo](https://github.com/openai/spinningup) of short, standalone implementations of key algorithms,
 - and a few [exercises](https://spinningup.openai.com/en/latest/spinningup/exercises.html) to serve as warm-ups.
+
+
+<br>
 
 
 Link
