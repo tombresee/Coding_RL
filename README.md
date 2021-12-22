@@ -43,6 +43,10 @@ print('tom')
 
 
 
+<br>
+
+
+
 
 Greek Reference
 ------------------
@@ -114,10 +118,13 @@ In code blocks:
 
 
 
+<br>
 
 
-# greek-symbols
-Greek symbols plugin for IntelliJ IDEA
+
+Greek Symbols
+------------------
+
 
  | Variable |Letter| Name    |
  |------|------|---------|
