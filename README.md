@@ -70,7 +70,7 @@ Greek Reference
 Small (lower case) greek letters:
 
 
-| Description | Symbol Character    | Unicode |                                                                 
+| Description | Symbol Character    | Unicode Character Code|                                                                 
 | ----------- |        :-:          |   :-:   |                                                                                                  
 | Greek small letter alpha   |  α   | \u03B1  |                                                                    
 | Greek small letter beta    |  β   | \u03B2  |                                                                    
@@ -103,7 +103,7 @@ Small (lower case) greek letters:
 
 Capital (upper case) greek letters:
 
-| Description | Symbol Character     | Unicode |                                                                 
+| Description | Symbol Character     | Unicode Character Code|                                                                 
 | ----------- |        :-:           |   :-:   |                                                                                                
 | Greek capital letter alpha    | Α  | \u0391  |                                                                 
 | Greek capital letter beta     | Β  | \u0392  |                                                                   
