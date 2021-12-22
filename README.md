@@ -51,7 +51,9 @@ Recommendation
 
 - If one desires, they could use italicized t (𝘵) for `time step` that is referred to all over 
 - 𝘴 for state 
-- 𝘴' for next state
+- 𝘴' for next state 𝘴'
+- 𝘢 for action 
+- 
 
 
 
