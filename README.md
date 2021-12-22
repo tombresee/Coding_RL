@@ -53,8 +53,9 @@ Recommendation
 - 𝘴 for state 
 - 𝘴' for next state 𝘴'
 - 𝘢 for action 
+- 𝜋 for pi
+-  
 - 
-
 
 
 
@@ -67,7 +68,7 @@ Greek Reference
 ------------------
 
 
-Capital letters:
+Capital (upper case) greek letters:
 
 | Code Name | Code | Description | Symbol / Character |                                                                 
 | -- | -- | -- | -- |                                                                                                   
