@@ -130,13 +130,9 @@ Capital (upper case) greek letters:
 | Greek capital letter psi      | Ψ  | \u03A8  |                                                                      
 | Greek capital letter omega    | Ω  | \u03A9  |
 
-In code blocks:
 
-    &psi; | &#968; | Greek small letter psi | ψ |                                                                         
-    &omega; | &#969; | Greek small letter omega | ω |
-
-
-
-
+<br>
+<br>
+<br>
 <br>
 
